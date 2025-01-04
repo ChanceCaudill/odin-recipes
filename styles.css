@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(255, 255, 132);
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  background-color: black;
+  color: rgb(255, 255, 132);
+  line-height: 50px;
+}
+
+ul.home {
+  font-size: 28px;
+  line-height: 75px;
+}
